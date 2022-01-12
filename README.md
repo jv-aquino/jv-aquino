@@ -14,7 +14,7 @@
   <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 <br><br>
-<div align="center">
+<div>
   <a href="https://github.com/jv-aquino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-aquino&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-aquino&theme=tokyonight&count_private=true&layout=compact">
