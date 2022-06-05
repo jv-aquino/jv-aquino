@@ -1,9 +1,9 @@
-<h1>Olá Mundo! Eu sou o João Vitor de Aquino 🌐</h1><br>
+<h1>Hello world! Eu sou o João Vitor de Aquino 🌐</h1><br>
 
 - **🖥️ Buscando me tornar um desenvolvedor Full-Stack** 
 - **📍 Guaratinguetá, SP** 
 - **🎓 CTIG - Unesp (2021 ➡️ 2023)**
-- **📂 [Portfólio](https://github.com/jv-aquino/portfolio) com todos os meus projetos de aprendizagem**
+- **📂 [Portfólio](https://github.com/jv-aquino/portfolio) com todos os meus projetos**
 - **👨‍💻[LinkedIn](https://www.linkedin.com/in/jv-aquino/)**
 
 <div style="display: inline-block" align="center">
