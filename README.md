@@ -17,5 +17,5 @@
 <br><br>
 <div style="display: inline-block" align="center">
   <a href="https://github.com/jv-aquino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv-aquino&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
+  <img height="230rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-aquino&langs_count=5&show_icons=true&theme=tokyonight">
 </div>
