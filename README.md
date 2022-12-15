@@ -1,6 +1,6 @@
 <h1>Hello world! I am Aquino 🌐</h1><br>
 
-- **🖥️ On my way to become a Full-Stack dev** 
+- **🖥️ Full-Stack dev** 
 - **📍 Guaratinguetá, BR** 
 - **🎓 CTIG - Unesp (2021 ➡️ 2023)**
 - **📂 [Portfolio](https://github.com/jv-aquino/portfolio) with my projects**
@@ -12,7 +12,8 @@
   <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &ensp;
   <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> &ensp;
   <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &ensp;
-  <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> &ensp;
+  <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 <br><br>
 <div style="display: inline-block" align="center">
