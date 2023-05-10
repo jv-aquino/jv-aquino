@@ -16,7 +16,3 @@
   <img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
 <br><br>
-<div style="display: inline-block" align="center">
-  <a href="https://github.com/jv-aquino">
-  <img height="230rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-aquino&langs_count=5&show_icons=true&theme=tokyonight">
-</div>
